@@ -1,0 +1,2800 @@
+{
+  "source": {
+    "provider": "麦当劳 MCP",
+    "storeCode": "1450713",
+    "storeName": "麦当劳上海黄浦华旭国际大厦餐厅",
+    "address": "南京东路街道西藏中路336号",
+    "orderType": 1,
+    "beType": 1,
+    "fetchedAt": "2026-10-22 19:20:00",
+    "note": "菜单与价格来自 query-meals 实时返回；套餐组成来自 query-meal-detail；营养数据来自 list-nutrition-foods。"
+  },
+  "items": [
+    {
+      "code": "521797",
+      "name": "北美招牌牧场酱",
+      "price": 3,
+      "originalPrice": 3,
+      "category": "sauce",
+      "protein": "none",
+      "flavors": [
+        "sour"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_521797_320.png",
+      "tags": [
+        "蘸酱"
+      ],
+      "popular": false
+    },
+    {
+      "code": "521966",
+      "name": "韩式烟熏芝士风味酱",
+      "price": 3,
+      "originalPrice": 3,
+      "category": "sauce",
+      "protein": "none",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521966_320.png",
+      "tags": [
+        "蘸酱"
+      ],
+      "popular": false
+    },
+    {
+      "code": "521951",
+      "name": "灰焰圆筒",
+      "price": 5,
+      "originalPrice": 5,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G521951_320.gif",
+      "tags": [
+        "上新"
+      ],
+      "popular": false
+    },
+    {
+      "code": "515837",
+      "name": "圆筒冰淇淋",
+      "price": 5,
+      "originalPrice": 5,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 93,
+        "protein": 2,
+        "fat": 3,
+        "carb": 14,
+        "sodium": 36
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515837_320.png",
+      "tags": [
+        "冰淇淋",
+        "人气"
+      ],
+      "popular": false
+    },
+    {
+      "code": "6102",
+      "name": "苹果片",
+      "price": 7,
+      "originalPrice": 7,
+      "category": "snack",
+      "protein": "veg",
+      "flavors": [
+        "sweet",
+        "sour"
+      ],
+      "nutrition": {
+        "kcal": 32,
+        "protein": 0,
+        "fat": 0,
+        "carb": 7,
+        "sodium": 0
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_6102_320.png",
+      "tags": [
+        "小食"
+      ],
+      "popular": false
+    },
+    {
+      "code": "3757",
+      "name": "纯悦",
+      "price": 7.5,
+      "originalPrice": 7.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "none"
+      ],
+      "nutrition": {
+        "kcal": 0,
+        "protein": 0,
+        "fat": 0,
+        "carb": 0,
+        "sodium": 0
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240904/product/MS_3757_320.png",
+      "tags": [
+        "冷饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900008752",
+      "name": "派",
+      "price": 8.5,
+      "originalPrice": 8.5,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 232,
+        "protein": 2,
+        "fat": 12,
+        "carb": 28,
+        "sodium": 159
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G9900008752_320.gif",
+      "tags": [
+        "派"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900008751",
+      "name": "可乐",
+      "price": 9.5,
+      "originalPrice": 9.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 147,
+        "protein": 0,
+        "fat": 0,
+        "carb": 36,
+        "sodium": 0
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif",
+      "tags": [
+        "冷饮",
+        "人气"
+      ],
+      "popular": false
+    },
+    {
+      "code": "520689",
+      "name": "鲜萃咖啡",
+      "price": 9.5,
+      "originalPrice": 9.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "none"
+      ],
+      "nutrition": {
+        "kcal": 15,
+        "protein": 1,
+        "fat": 0,
+        "carb": 3,
+        "sodium": 2
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_G520688_320.gif",
+      "tags": [
+        "热饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "3010",
+      "name": "雪碧",
+      "price": 9.5,
+      "originalPrice": 9.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet",
+        "sour"
+      ],
+      "nutrition": {
+        "kcal": 105,
+        "protein": 0,
+        "fat": 0,
+        "carb": 26,
+        "sodium": 29
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G3010_320.png",
+      "tags": [
+        "冷饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "515280",
+      "name": "阳光柠檬红茶",
+      "price": 9.5,
+      "originalPrice": 9.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sour",
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 117,
+        "protein": 0,
+        "fat": 0,
+        "carb": 29,
+        "sodium": 17
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515280_320.png",
+      "tags": [
+        "冷饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900016566",
+      "name": "心形薯饼8块",
+      "price": 9.9,
+      "originalPrice": 22.5,
+      "category": "snack",
+      "protein": "none",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016566_320.png",
+      "tags": [
+        "人气热卖"
+      ],
+      "popular": true
+    },
+    {
+      "code": "510479",
+      "name": "燕麦奶铁",
+      "price": 9.9,
+      "originalPrice": 23,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G510481_320.png",
+      "tags": [],
+      "popular": false
+    },
+    {
+      "code": "3755",
+      "name": "纯牛奶(盒装)",
+      "price": 10.5,
+      "originalPrice": 10.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 129,
+        "protein": 7,
+        "fat": 7,
+        "carb": 10,
+        "sodium": 73
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240731/product/MS_3755_320.png",
+      "tags": [
+        "冷饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "521986",
+      "name": "马苏里拉拉丝芝士条",
+      "price": 11,
+      "originalPrice": 15,
+      "category": "snack",
+      "protein": "veg",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G521986_320.png",
+      "tags": [
+        "上新",
+        "促销优惠"
+      ],
+      "popular": false
+    },
+    {
+      "code": "6362",
+      "name": "100% 苹果汁(盒装)",
+      "price": 11.5,
+      "originalPrice": 11.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet",
+        "sour"
+      ],
+      "nutrition": {
+        "kcal": 88,
+        "protein": 0,
+        "fat": 0,
+        "carb": 21,
+        "sodium": 0
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250430/product/MS_6362_320_1745552987716.png",
+      "tags": [
+        "冷饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "3505",
+      "name": "锡兰红茶",
+      "price": 11.5,
+      "originalPrice": 11.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "none"
+      ],
+      "nutrition": {
+        "kcal": 2,
+        "protein": 0,
+        "fat": 0,
+        "carb": 0,
+        "sodium": 0
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_3505_320.png",
+      "tags": [
+        "热饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "515520",
+      "name": "怡泉+C",
+      "price": 11.5,
+      "originalPrice": 11.5,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sour"
+      ],
+      "nutrition": {
+        "kcal": 110,
+        "protein": 0,
+        "fat": 0,
+        "carb": 27,
+        "sodium": 0
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515520_320.png",
+      "tags": [
+        "冷饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "507411",
+      "name": "麦咖啡™美式",
+      "price": 11.9,
+      "originalPrice": 19,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "none"
+      ],
+      "nutrition": {
+        "kcal": 13,
+        "protein": 1,
+        "fat": 0,
+        "carb": 2,
+        "sodium": 0
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507374_320.gif",
+      "tags": [
+        "限定特惠"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900016078",
+      "name": "蘸酱麦麦脆汁鸡",
+      "price": 11.9,
+      "originalPrice": 18,
+      "category": "snack",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016078_320.png",
+      "tags": [],
+      "popular": false
+    },
+    {
+      "code": "9900016077",
+      "name": "蘸酱炸鸡",
+      "price": 11.9,
+      "originalPrice": 17.5,
+      "category": "snack",
+      "protein": "chicken",
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016077_320.gif",
+      "tags": [
+        "蘸酱炸鸡"
+      ],
+      "popular": true
+    },
+    {
+      "code": "521817",
+      "name": "【美汁源】“多汁柠柠”",
+      "price": 12,
+      "originalPrice": 12,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sour",
+        "sweet"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260807/product/MS_521817_320.png",
+      "tags": [
+        "上新"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900008745",
+      "name": "新地",
+      "price": 12,
+      "originalPrice": 12,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 282,
+        "protein": 5,
+        "fat": 9,
+        "carb": 44,
+        "sodium": 126
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G9900008745_320.gif",
+      "tags": [
+        "冰淇淋"
+      ],
+      "popular": false
+    },
+    {
+      "code": "2430",
+      "name": "【美汁源】“黄金橙橙”",
+      "price": 13,
+      "originalPrice": 13,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet",
+        "sour"
+      ],
+      "nutrition": {
+        "kcal": 165,
+        "protein": 0,
+        "fat": 0,
+        "carb": 41,
+        "sodium": 53
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240904/product/MS_2430_320.png",
+      "tags": [
+        "冷饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "6352",
+      "name": "阳光橙麦炫酷",
+      "price": 13,
+      "originalPrice": 13,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet",
+        "sour"
+      ],
+      "nutrition": {
+        "kcal": 228,
+        "protein": 1,
+        "fat": 2,
+        "carb": 50,
+        "sodium": 77
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_6352_320.png",
+      "tags": [
+        "冷饮"
+      ],
+      "popular": false
+    },
+    {
+      "code": "4437",
+      "name": "玉米杯",
+      "price": 13,
+      "originalPrice": 13,
+      "category": "snack",
+      "protein": "veg",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 87,
+        "protein": 4,
+        "fat": 1,
+        "carb": 12,
+        "sodium": 2
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G4437_320.png",
+      "tags": [
+        "小食"
+      ],
+      "popular": false
+    },
+    {
+      "code": "4810",
+      "name": "薯条",
+      "price": 13.5,
+      "originalPrice": 13.5,
+      "category": "snack",
+      "protein": "veg",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 289,
+        "protein": 4,
+        "fat": 12,
+        "carb": 38,
+        "sodium": 165
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250523/product/MS_G4810_320_1747877491921.png",
+      "tags": [
+        "小食"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900015568",
+      "name": "精选超值随心配",
+      "price": 13.9,
+      "originalPrice": 13.9,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900015568_320.png",
+      "tags": [
+        "随心配",
+        "超值"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "507409",
+      "name": "麦咖啡™奶铁",
+      "price": 13.9,
+      "originalPrice": 21,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 148,
+        "protein": 8,
+        "fat": 7,
+        "carb": 13,
+        "sodium": 77
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507372_320.gif",
+      "tags": [
+        "限定特惠"
+      ],
+      "popular": false
+    },
+    {
+      "code": "515946",
+      "name": "浓浓黑巧（冰/热）",
+      "price": 13.9,
+      "originalPrice": 21,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 135,
+        "protein": 8,
+        "fat": 6,
+        "carb": 12,
+        "sodium": 77
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_G515945_320.gif",
+      "tags": [
+        "限定特惠"
+      ],
+      "popular": false
+    },
+    {
+      "code": "1401",
+      "name": "麦乐鸡",
+      "price": 14,
+      "originalPrice": 14,
+      "category": "snack",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 213,
+        "protein": 12,
+        "fat": 12,
+        "carb": 13,
+        "sodium": 422
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260529/product/MS_G1401_320.png",
+      "tags": [
+        "小食",
+        "人气"
+      ],
+      "popular": false
+    },
+    {
+      "code": "521156",
+      "name": "那么大鸡排（椒盐风味）",
+      "price": 14,
+      "originalPrice": 14,
+      "category": "snack",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 385,
+        "protein": 24,
+        "fat": 21,
+        "carb": 24,
+        "sodium": 996
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260101/product/MS_521156_320.png",
+      "tags": [
+        "小食",
+        "人气"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900008747",
+      "name": "牛肉堡单品精选",
+      "price": 14,
+      "originalPrice": 14,
+      "category": "burger",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_9900008747_320.gif",
+      "tags": [],
+      "popular": false
+    },
+    {
+      "code": "9900016082",
+      "name": "心形薯饼5块",
+      "price": 14.5,
+      "originalPrice": 14.5,
+      "category": "snack",
+      "protein": "veg",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016082_320.png",
+      "tags": [
+        "上新"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900013304",
+      "name": "人气经典随心配",
+      "price": 14.9,
+      "originalPrice": 14.9,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900013304_320.png",
+      "tags": [
+        "随心配",
+        "超值"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "protein": "beef",
+          "name": "牛肉堡",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "514851",
+      "name": "咖啡阿芙佳朵",
+      "price": 15,
+      "originalPrice": 15,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 139,
+        "protein": 4,
+        "fat": 4,
+        "carb": 21,
+        "sodium": 49
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_514851_320.png",
+      "tags": [
+        "其他"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900014092",
+      "name": "麦当劳奶昔",
+      "price": 15,
+      "originalPrice": 22,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900014092_320.gif",
+      "tags": [
+        "上新",
+        "奶昔回归"
+      ],
+      "popular": true
+    },
+    {
+      "code": "1700",
+      "name": "麦辣鸡翅",
+      "price": 15,
+      "originalPrice": 15,
+      "category": "snack",
+      "protein": "chicken",
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
+      "nutrition": {
+        "kcal": 224,
+        "protein": 13,
+        "fat": 15,
+        "carb": 9,
+        "sodium": 537
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_G1700_320.png",
+      "tags": [
+        "小食",
+        "人气"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900005432",
+      "name": "麦麦脆汁鸡1块",
+      "price": 15,
+      "originalPrice": 15,
+      "category": "snack",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900005432_320.png",
+      "tags": [],
+      "popular": false
+    },
+    {
+      "code": "514850",
+      "name": "抹茶阿芙佳朵",
+      "price": 15,
+      "originalPrice": 15,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 147,
+        "protein": 3,
+        "fat": 4,
+        "carb": 23,
+        "sodium": 50
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_514850_320.png",
+      "tags": [
+        "其他"
+      ],
+      "popular": false
+    },
+    {
+      "code": "507389",
+      "name": "浓缩咖啡",
+      "price": 15,
+      "originalPrice": 15,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "none"
+      ],
+      "nutrition": {
+        "kcal": 13,
+        "protein": 1,
+        "fat": 0,
+        "carb": 2,
+        "sodium": 0
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_507389_320.png",
+      "tags": [
+        "麦咖啡"
+      ],
+      "popular": false
+    },
+    {
+      "code": "521901",
+      "name": "月下相思扭扭薯",
+      "price": 15,
+      "originalPrice": 15,
+      "category": "snack",
+      "protein": "veg",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521901_320.png",
+      "tags": [
+        "上新"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900008754",
+      "name": "经典麦旋风",
+      "price": 15.5,
+      "originalPrice": 15.5,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 266,
+        "protein": 5,
+        "fat": 9,
+        "carb": 40,
+        "sodium": 116
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G9900008754_320.gif",
+      "tags": [
+        "冰淇淋"
+      ],
+      "popular": false
+    },
+    {
+      "code": "521881",
+      "name": "马来咖喱风味薄皮肉骨鸡3块",
+      "price": 15.5,
+      "originalPrice": 15.5,
+      "category": "snack",
+      "protein": "chicken",
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521881_320.png",
+      "tags": [
+        "上新"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900016076",
+      "name": "“我就喜欢”鸡薯双全盒",
+      "price": 15.9,
+      "originalPrice": 28.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016076_320.png",
+      "tags": [
+        "上新"
+      ],
+      "popular": true,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "code": "521952",
+      "name": "龙焰鸡腿堡",
+      "price": 15.9,
+      "originalPrice": 24,
+      "category": "burger",
+      "protein": "chicken",
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521952_320.png",
+      "tags": [
+        "上新",
+        "韩式辣椒黄油风味"
+      ],
+      "popular": true
+    },
+    {
+      "code": "515955",
+      "name": "浓浓燕麦黑巧（冰/热）",
+      "price": 15.9,
+      "originalPrice": 23,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 120,
+        "protein": 2,
+        "fat": 5,
+        "carb": 16,
+        "sodium": 87
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_G515954_320.gif",
+      "tags": [
+        "限定特惠"
+      ],
+      "popular": false
+    },
+    {
+      "code": "520445",
+      "name": "薄皮焦香V翅",
+      "price": 16,
+      "originalPrice": 16,
+      "category": "snack",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 192,
+        "protein": 17,
+        "fat": 11,
+        "carb": 6,
+        "sodium": 594
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20241202/product/MS_520445_320.png",
+      "tags": [
+        "小食"
+      ],
+      "popular": false
+    },
+    {
+      "code": "521950",
+      "name": "蓝莓爆爆珠麦旋风",
+      "price": 16.5,
+      "originalPrice": 16.5,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet",
+        "sour"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G521950_320.gif",
+      "tags": [
+        "上新",
+        "蓝莓"
+      ],
+      "popular": true
+    },
+    {
+      "code": "521917",
+      "name": "泷愿成真麦旋风——大米风味",
+      "price": 16.5,
+      "originalPrice": 16.5,
+      "category": "dessert",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G521917_320.gif",
+      "tags": [
+        "上新"
+      ],
+      "popular": false
+    },
+    {
+      "code": "507394",
+      "name": "牛奶",
+      "price": 19,
+      "originalPrice": 19,
+      "category": "drink",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G5073941_320.png",
+      "tags": [],
+      "popular": false
+    },
+    {
+      "code": "9900011126",
+      "name": "酥脆无双套餐",
+      "price": 20,
+      "originalPrice": 20,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260701/product/MS_9900011126_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "507387",
+      "name": "卡布奇诺",
+      "price": 21,
+      "originalPrice": 21,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "sweet"
+      ],
+      "nutrition": {
+        "kcal": 167,
+        "protein": 9,
+        "fat": 7,
+        "carb": 15,
+        "sodium": 88
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_G507388_320.png",
+      "tags": [
+        "麦咖啡"
+      ],
+      "popular": false
+    },
+    {
+      "code": "510488",
+      "name": "燕麦奶",
+      "price": 21,
+      "originalPrice": 21,
+      "category": "drink",
+      "protein": "none",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G510489_320.png",
+      "tags": [],
+      "popular": false
+    },
+    {
+      "code": "521316",
+      "name": "高达吉士双牛堡",
+      "price": 22.5,
+      "originalPrice": 22.5,
+      "category": "burger",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_521316_320.png",
+      "tags": [
+        "100%纯牛肉",
+        "人气"
+      ],
+      "popular": false
+    },
+    {
+      "code": "1440",
+      "name": "麦辣鸡腿汉堡",
+      "price": 22.5,
+      "originalPrice": 22.5,
+      "category": "burger",
+      "protein": "chicken",
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
+      "nutrition": {
+        "kcal": 485,
+        "protein": 24,
+        "fat": 24,
+        "carb": 42,
+        "sodium": 1208
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260325/product/MS_1440_320.png",
+      "tags": [
+        "人气经典"
+      ],
+      "popular": false
+    },
+    {
+      "code": "1600",
+      "name": "麦香鱼",
+      "price": 22.5,
+      "originalPrice": 22.5,
+      "category": "burger",
+      "protein": "fish",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 325,
+        "protein": 16,
+        "fat": 13,
+        "carb": 35,
+        "sodium": 556
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260101/product/MS_1600_320.png",
+      "tags": [
+        "经典"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900015602",
+      "name": "大堡口福三件套",
+      "price": 22.9,
+      "originalPrice": 47,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900015602_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "1120",
+      "name": "双层吉士汉堡",
+      "price": 23,
+      "originalPrice": 23,
+      "category": "burger",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 429,
+        "protein": 27,
+        "fat": 22,
+        "carb": 31,
+        "sodium": 1017
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_1120_320.png",
+      "tags": [
+        "100%纯牛肉"
+      ],
+      "popular": false
+    },
+    {
+      "code": "1406",
+      "name": "板烧鸡腿堡",
+      "price": 23.5,
+      "originalPrice": 23.5,
+      "category": "burger",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 391,
+        "protein": 23,
+        "fat": 17,
+        "carb": 35,
+        "sodium": 1041
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20241008/product/MS_1406_320.png",
+      "tags": [
+        "多汁惹味"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900016057",
+      "name": "汉堡开心乐园餐",
+      "price": 23.5,
+      "originalPrice": 23.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016057_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900008746",
+      "name": "鸡肉堡单品精选",
+      "price": 23.5,
+      "originalPrice": 23.5,
+      "category": "burger",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260624/product/MS_9900008746_320.gif",
+      "tags": [],
+      "popular": false
+    },
+    {
+      "code": "9900011123",
+      "name": "“辣”么快乐套餐",
+      "price": 24,
+      "originalPrice": 36.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900011123_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900003586",
+      "name": "双层深海鳕鱼堡",
+      "price": 24,
+      "originalPrice": 24,
+      "category": "burger",
+      "protein": "fish",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 485,
+        "protein": 28,
+        "fat": 21,
+        "carb": 46,
+        "sodium": 917
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900003586_320.png",
+      "tags": [
+        "麦香鱼系列"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900016058",
+      "name": "鱼排堡开心乐园餐",
+      "price": 24,
+      "originalPrice": 24,
+      "category": "combo",
+      "protein": "fish",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016058_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "1106",
+      "name": "培根蔬萃双层牛堡",
+      "price": 24.5,
+      "originalPrice": 24.5,
+      "category": "burger",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 442,
+        "protein": 24,
+        "fat": 23,
+        "carb": 34,
+        "sodium": 728
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_1106_320.png",
+      "tags": [
+        "100%纯牛肉"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900016056",
+      "name": "麦乐鸡开心乐园餐",
+      "price": 25,
+      "originalPrice": 25,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016056_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900004835",
+      "name": "麦乐鸡套餐",
+      "price": 25,
+      "originalPrice": 37.5,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504969_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "1100",
+      "name": "巨无霸",
+      "price": 25.5,
+      "originalPrice": 25.5,
+      "category": "burger",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 513,
+        "protein": 27,
+        "fat": 26,
+        "carb": 42,
+        "sodium": 961
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_1100_320.png",
+      "tags": [
+        "100%纯牛肉",
+        "爆款"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900005449",
+      "name": "吉士汉堡包套餐",
+      "price": 26,
+      "originalPrice": 38.5,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504971_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "4648",
+      "name": "不素之霸双层牛堡",
+      "price": 26.5,
+      "originalPrice": 26.5,
+      "category": "burger",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 493,
+        "protein": 28,
+        "fat": 27,
+        "carb": 34,
+        "sodium": 1012
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_4648_320.png",
+      "tags": [
+        "100%纯牛肉"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900016073",
+      "name": "龙焰鸡腿堡三件套",
+      "price": 26.9,
+      "originalPrice": 47.5,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016073_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": true,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "521953",
+      "name": "龙焰芝士棒鸡腿堡",
+      "price": 27,
+      "originalPrice": 27,
+      "category": "burger",
+      "protein": "chicken",
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521953_320.png",
+      "tags": [
+        "上新",
+        "浓郁奶香拉丝芝士"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900011128",
+      "name": "“堡”你欢乐套餐",
+      "price": 28,
+      "originalPrice": 42.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900011128_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900000890",
+      "name": "板烧鸡腿堡四件套",
+      "price": 28,
+      "originalPrice": 57,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000890_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900000891",
+      "name": "麦辣鸡腿堡四件套",
+      "price": 28,
+      "originalPrice": 57,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000891_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005453",
+      "name": "麦香鸡套餐",
+      "price": 28,
+      "originalPrice": 40.5,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504967_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900004236",
+      "name": "人气超值四件套随心选",
+      "price": 28,
+      "originalPrice": 57,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900004236_320.gif",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900016309",
+      "name": "龙焰鸡腿堡四件套",
+      "price": 29,
+      "originalPrice": 57,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016309_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900016311",
+      "name": "龙焰美味四件套",
+      "price": 29,
+      "originalPrice": 57,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016311_320.gif",
+      "tags": [
+        "人气热卖"
+      ],
+      "popular": true,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900016075",
+      "name": "龙焰芝士棒鸡腿堡三件套",
+      "price": 29.9,
+      "originalPrice": 50.5,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016075_320.png",
+      "tags": [
+        "人气热卖"
+      ],
+      "popular": true,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "511782",
+      "name": "芝士安格斯厚牛堡",
+      "price": 31.5,
+      "originalPrice": 31.5,
+      "category": "burger",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 696,
+        "protein": 32,
+        "fat": 44,
+        "carb": 43,
+        "sodium": 897
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_511782_320.png",
+      "tags": [
+        "100%安格斯牛肉"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900000886",
+      "name": "不素之霸双层牛堡四件套",
+      "price": 32,
+      "originalPrice": 58.5,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000886_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900000888",
+      "name": "巨无霸四件套",
+      "price": 32,
+      "originalPrice": 58.5,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000888_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900016310",
+      "name": "龙焰芝士棒鸡腿堡四件套",
+      "price": 32,
+      "originalPrice": 57,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016310_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900000885",
+      "name": "培根蔬萃双层牛堡四件套",
+      "price": 32,
+      "originalPrice": 58.5,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000885_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900000893",
+      "name": "双层深海鳕鱼堡四件套",
+      "price": 32,
+      "originalPrice": 58.5,
+      "category": "combo",
+      "protein": "fish",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000893_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900010110",
+      "name": "鱼牛汉堡四件套随心选",
+      "price": 32,
+      "originalPrice": 58.5,
+      "category": "combo",
+      "protein": "fish",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900010110_320.gif",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005456",
+      "name": "麦辣鸡腿汉堡三件套",
+      "price": 33.5,
+      "originalPrice": 46,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty",
+        "spicy"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005456_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005460",
+      "name": "麦香鱼套餐",
+      "price": 33.5,
+      "originalPrice": 46,
+      "category": "combo",
+      "protein": "fish",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504968_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005464",
+      "name": "双层吉士汉堡套餐",
+      "price": 34,
+      "originalPrice": 46.5,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504966_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005462",
+      "name": "板烧鸡腿堡三件套",
+      "price": 34.5,
+      "originalPrice": 47,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005462_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900004064",
+      "name": "精选单人餐三件套",
+      "price": 34.5,
+      "originalPrice": 46,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900004064_320.gif",
+      "tags": [
+        "人气热卖"
+      ],
+      "popular": true,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "511781",
+      "name": "培根安格斯厚牛堡",
+      "price": 34.5,
+      "originalPrice": 34.5,
+      "category": "burger",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": {
+        "kcal": 707,
+        "protein": 34,
+        "fat": 44,
+        "carb": 43,
+        "sodium": 1037
+      },
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260309/product/MS_511781_320.png",
+      "tags": [
+        "100%安格斯牛肉"
+      ],
+      "popular": false
+    },
+    {
+      "code": "9900009245",
+      "name": "牛气满满套餐",
+      "price": 35,
+      "originalPrice": 47.5,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900009245_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005413",
+      "name": "双层深海鳕鱼堡三件套",
+      "price": 35,
+      "originalPrice": 47.5,
+      "category": "combo",
+      "protein": "fish",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005413_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005468",
+      "name": "培根蔬萃双层牛堡三件套",
+      "price": 35.5,
+      "originalPrice": 48,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005468_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900011121",
+      "name": "“苹”水相“鱼”套餐",
+      "price": 36,
+      "originalPrice": 54,
+      "category": "combo",
+      "protein": "fish",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900011121_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005466",
+      "name": "巨无霸三件套",
+      "price": 36.5,
+      "originalPrice": 49,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005466_320.png",
+      "tags": [
+        "套餐"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005451",
+      "name": "麦辣鸡翅4块套餐",
+      "price": 36.5,
+      "originalPrice": 49,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_G504972_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900006957",
+      "name": "安格斯厚牛堡四件套随心选",
+      "price": 37,
+      "originalPrice": 66,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900006957_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900000881",
+      "name": "培根安格斯厚牛堡四件套",
+      "price": 37,
+      "originalPrice": 66,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000881_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900000882",
+      "name": "芝士安格斯厚牛堡四件套",
+      "price": 37,
+      "originalPrice": 66,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900000882_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005411",
+      "name": "不素之霸双层牛堡三件套",
+      "price": 37.5,
+      "originalPrice": 50,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005411_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900009242",
+      "name": "“苹板”支撑Pro套餐",
+      "price": 39.5,
+      "originalPrice": 53.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900009242_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900015730",
+      "name": "BFF四宫格小食盘",
+      "price": 39.8,
+      "originalPrice": 54.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900015730_320.gif",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 4
+        }
+      ]
+    },
+    {
+      "code": "9900005430",
+      "name": "芝士安格斯厚牛堡三件套",
+      "price": 42.5,
+      "originalPrice": 55,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005430_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900015729",
+      "name": "蘸酱BFF四宫格小食盘",
+      "price": 42.8,
+      "originalPrice": 57.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900015729_320.gif",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 4
+        }
+      ]
+    },
+    {
+      "code": "9900005428",
+      "name": "培根安格斯厚牛堡三件套",
+      "price": 45.5,
+      "originalPrice": 58,
+      "category": "combo",
+      "protein": "beef",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260824/product/MS_9900005428_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 1
+        },
+        {
+          "category": "drink",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900006332",
+      "name": "薄皮V翅双拼十翅",
+      "price": 49.9,
+      "originalPrice": 77,
+      "category": "combo",
+      "protein": "chicken",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260610/product/MS_9900006332_320.png",
+      "tags": [
+        "小食拼盘"
+      ],
+      "popular": false,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 10
+        }
+      ]
+    },
+    {
+      "code": "9900011056",
+      "name": "全明星双人分享餐八件套",
+      "price": 49.9,
+      "originalPrice": 114.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_9900011056_320.gif",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 2
+        },
+        {
+          "category": "snack",
+          "qty": 4
+        },
+        {
+          "category": "drink",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "code": "9900016055",
+      "name": "开心亲子双人餐",
+      "price": 59.5,
+      "originalPrice": 59.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900016055_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 1
+        },
+        {
+          "category": "snack",
+          "qty": 2
+        },
+        {
+          "category": "drink",
+          "qty": 2
+        },
+        {
+          "category": "dessert",
+          "qty": 1
+        }
+      ]
+    },
+    {
+      "code": "9900005321",
+      "name": "BFF四宫格小食盘双人餐",
+      "price": 62.9,
+      "originalPrice": 122.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260304/product/MS_9900005321_320.png",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "snack",
+          "qty": 4
+        },
+        {
+          "category": "drink",
+          "qty": 2
+        }
+      ]
+    },
+    {
+      "code": "9900004066",
+      "name": "堡堡随心拼（7件任选）",
+      "price": 72.5,
+      "originalPrice": 101.5,
+      "category": "combo",
+      "protein": "mixed",
+      "flavors": [
+        "salty"
+      ],
+      "nutrition": null,
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260624/product/MS_9900004066_320.gif",
+      "tags": [],
+      "popular": false,
+      "contents": [
+        {
+          "category": "burger",
+          "qty": 3
+        },
+        {
+          "category": "snack",
+          "qty": 4
+        }
+      ]
+    }
+  ]
+}

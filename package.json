@@ -1,0 +1,17 @@
+{
+  "name": "mdl-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "麦门省钱大闯关 · 基于麦当劳 MCP 的门店点餐挑战游戏",
+  "scripts": {
+    "setup": "npm install && npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -n API,WEB -c red,yellow \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
