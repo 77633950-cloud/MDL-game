@@ -587,7 +587,8 @@ if (fs.existsSync(dist)) {
 }
 
 const PORT = Number(process.env.PORT) || 3001
-app.listen(PORT, () => {
-  console.log(`麦门省钱大闯关 API 已启动: http://localhost:${PORT}`)
-  console.log(`数据源: ${sourceInfo(DEFAULT_STORE_CODE).label} · 门店 ${DEFAULT_STORE_CODE}`)
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`麦门省钱大闯关 API 已启动`)
+  console.log(`数据源：${sourceInfo(DEFAULT_STORE_CODE).label} · 门店 ${DEFAULT_STORE_CODE}`)
 })
+
